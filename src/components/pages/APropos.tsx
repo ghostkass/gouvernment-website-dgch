@@ -65,7 +65,7 @@ export function APropos() {
   const organigramme = [
     {
       title: 'Directeur Général',
-      name: 'Dr. Amadou SALL',
+      name: 'M. Moussa Tine',
       departments: [
         {
           title: 'DCONS - Direction de la Construction',
