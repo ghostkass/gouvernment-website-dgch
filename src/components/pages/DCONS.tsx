@@ -67,24 +67,24 @@ export function DCONS() {
 
   const team = [
     {
-      name: 'Ing. Fatou DIOP',
+      name: 'Mme Katy Ndiaye',
       title: 'Directrice DCONS',
-      speciality: 'Génie Civil'
+      speciality: 'Urbaniste'
     },
     {
-      name: 'Arch. Moussa KANE',
-      title: 'Chef Division Normes',
-      speciality: 'Architecture'
+      name: 'Marieme Ba',
+      title: 'Chef Division',
+      speciality: 'Ingénieure Génie Civile'
     },
     {
-      name: 'Ing. Aminata SOW',
-      title: 'Chef Division Contrôle',
-      speciality: 'Bâtiment'
+      name: 'Mme Diallo',
+      title: 'Assistante Particulière',
+      speciality: 'Secrétaire'
     },
     {
-      name: 'Ing. Mamadou BA',
-      title: 'Chef Division Autorisations',
-      speciality: 'Urbanisme'
+      name: 'Matar Bocoume',
+      title: 'Chef Division',
+      speciality: 'Ingénieur Génie Civile'
     }
   ];
 
