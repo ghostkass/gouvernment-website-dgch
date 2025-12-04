@@ -102,16 +102,6 @@ export function Header({ currentPage, onNavigate }: HeaderProps) {
             ))}
           </nav>
 
-          {/* Espace Agent Button */}
-          <div className="hidden lg:block">
-            <Button 
-              className="dgch-gradient text-white hover:opacity-90 transition-opacity"
-              onClick={() => onNavigate('espace-agent')}
-            >
-              Espace Agent
-            </Button>
-          </div>
-
           {/* Mobile Menu Button */}
           <button
             className="lg:hidden p-2"
